@@ -11,7 +11,7 @@
 ---
 
 ### 🏆 GitHub Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sur3sh-b4bu&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sur3sh-b4bu&show_icons=true&theme=radical) 
 
 ---
 
