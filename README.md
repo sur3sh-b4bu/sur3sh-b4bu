@@ -48,7 +48,7 @@
 
 ---
 
-![snake gif](https://github.com/sur3sh-b4bu/sur3sh-b4bu/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/sur3sh-b4bu/sur3sh-b4bu/blob/output/snake.svg)
 
 
 *"Break to build — Hack to secure."*
