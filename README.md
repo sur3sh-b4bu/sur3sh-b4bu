@@ -21,7 +21,6 @@
 - **Version Control:** Git, GitHub  
 - **Platforms:** Linux (Kali), Termux  
 
----
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -45,7 +44,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Suresh%20Babu-blue?logo=linkedin)](https://www.linkedin.com/in/suresh-babu-b)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-sur3sh__b4bu-red?logo=tryhackme)](https://tryhackme.com/p/sur3sh_b4bu) 
 
----
 
 ### 📫 Connect with me  
 - GitHub: [@sur3sh-b4bu](https://github.com/sur3sh-b4bu)  
