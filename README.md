@@ -45,10 +45,8 @@
 ### 🔗 My Projects
 - [SQLi Payload Generator](https://github.com/sur3sh-b4bu/sqli-payloads)
 - [Python Automation Scripts](https://github.com/sur3sh-b4bu/python-scripts)
+- ![snake gif](https://github.com/sur3sh-b4bu/sur3sh-b4bu/blob/output/snake.svg) 
 
----
-
-![snake gif](https://github.com/sur3sh-b4bu/sur3sh-b4bu/blob/output/snake.svg)
 
 
 *"Break to build — Hack to secure."*
