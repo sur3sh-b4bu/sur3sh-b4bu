@@ -45,6 +45,9 @@
 ### 🔗 My Projects
 - [SQLi Payload Generator](https://github.com/sur3sh-b4bu/sqli-payloads)
 - [Python Automation Scripts](https://github.com/sur3sh-b4bu/python-scripts)
+
+---
+
 [![GitHub followers](https://img.shields.io/github/followers/sur3sh-b4bu?label=Follow&style=social)](https://github.com/sur3sh-b4bu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Suresh%20Babu-blue?logo=linkedin)](https://www.linkedin.com/in/suresh-babu-b)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-sur3sh__b4bu-red?logo=tryhackme)](https://tryhackme.com/p/sur3sh_b4bu) 
