@@ -46,5 +46,11 @@
 - [SQLi Payload Generator](https://github.com/sur3sh-b4bu/sqli-payloads)
 - [Python Automation Scripts](https://github.com/sur3sh-b4bu/python-scripts)
 
+---
+
+$ whoami
+sur3sh-b4bu
+$ echo "Cybersecurity Enthusiast | Pentester-in-Training"
+
 *"Break to build — Hack to secure."*
 
