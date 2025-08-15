@@ -26,7 +26,7 @@
 ### 📫 Connect with me  
 - GitHub: [@sur3sh-b4bu](https://github.com/sur3sh-b4bu)  
 - LinkedIn: [@Suresh Babu B](www.linkedin.com/in/suresh-babu-eh)  
-- CTF Platforms: [@sur3sh_b4bu](https://tryhackme.com/p/sur3shb4bu) 
+- TryHackMe: [@sur3sh_b4bu](https://tryhackme.com/p/sur3shb4bu) 
 
 ---
 
