@@ -3,7 +3,7 @@
 ### 🔒 Cybersecurity Enthusiast | Pentester-in-Training | CTF Player
 
 - 🌐 Exploring **Web App Security** (SQLi, XSS, CSRF)  
-- 🐍 Learning **Python scripting** for automation and security tools  
+- 🐍 Learning **Python scripting** for automation and security tools   
 - 🎯 Practicing **bug bounty** and **CTF challenges** daily  
 - 🛠 Tools I use: **Burp Suite, Nmap, Git, Python, Linux, Termux**  
 - 🚀 Goal: Become a **full-stack pentester and security defender**  
