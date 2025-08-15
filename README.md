@@ -46,7 +46,8 @@
 
 
 ### 📫 Connect with me  
-- GitHub: [@sur3sh-b4bu](https://github.com/sur3sh-b4bu)  
+- GitHub: [@sur3sh-b4bu](https://github.com/sur3sh-b4bu)
+- Medium: [@sur3sh-b4bu](https://medium.com/@sur3sh-b4bu)
 - LinkedIn: [@Suresh Babu B](www.linkedin.com/in/suresh-babu-eh)  
 - TryHackMe: [@sur3sh_b4bu](https://tryhackme.com/p/sur3shb4bu) 
 
