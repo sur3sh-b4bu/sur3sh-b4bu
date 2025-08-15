@@ -37,13 +37,6 @@
 
 ---
 
-### 🏆 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sur3sh-b4bu&show_icons=true&theme=radical)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sur3sh-b4bu&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ### 📊 Profile Visitors
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=sur3sh-b4bu.sur3sh-b4bu)
 
