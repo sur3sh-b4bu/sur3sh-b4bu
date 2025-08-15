@@ -48,9 +48,8 @@
 
 ---
 
-$ whoami
-sur3sh-b4bu
-$ echo "Cybersecurity Enthusiast | Pentester-in-Training"
+![snake gif](https://github.com/sur3sh-b4bu/sur3sh-b4bu/blob/output/github-contribution-grid-snake.svg)
+
 
 *"Break to build — Hack to secure."*
 
